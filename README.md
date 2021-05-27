@@ -1,0 +1,2 @@
+# CursoPython
+ Exercícios
